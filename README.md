@@ -19,6 +19,8 @@ I am a sophomore majoring in Aviation electronic & Information Engineering at Ko
 <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=C++&logoColor=white"/>
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white"/>
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white"/>
+<img src="https://img.shields.io/badge/Vim-019733?style=for-the-badge&logo=Vim&logoColor=white"/>
+
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KwonPodo&layout=compact)](https://github.com/KwonPodo/github-readme-stats)
 
