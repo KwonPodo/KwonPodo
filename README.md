@@ -1,6 +1,7 @@
 <div align="center">🙌 Introduction 🙌</div>
 <div align="center">
 👋 Hi, my name is Joonhyoung Kwon.
+
 I am a sophomore majoring in Aviation electronic & Information Engineering at Korea Aerospace University.
 
 - 🌱 I’m currently learning Algorithms and Data Structures to think and code more efficiently.
