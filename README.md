@@ -6,7 +6,7 @@ I am a sophomore majoring in Aviation electronic & Information Engineering at Ko
 
 🌱 I’m currently learning Algorithms and Data Structures to think and code more efficiently.
 
-🔭 I’m hoping to learn about Computer Vision and Machine Learning.
+<!-- 🔭 I’m hoping to learn about Computer Vision and Machine Learning. -->
 
 </div>
 
