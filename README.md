@@ -2,7 +2,7 @@
 <div align="center">
 👋 Hi, my name is Joonhyoung Kwon.
 
-I am a sophomore majoring in Aviation electronic & Information Engineering at Korea Aerospace University.
+I am a junior majoring in Aviation electronic & Information Engineering at Korea Aerospace University.
 
 🌱 I’m currently Interested in Computer Vision and Machine Learning.
 
