@@ -2,10 +2,12 @@
 <div align="center">
 👋 Hi, my name is Joonhyoung Kwon.
 
-I am a junior majoring in Aviation electronic & Information Engineering at Korea Aerospace University.
+<!-- I am a senior majoring in Aviation electronic & Information Engineering at Korea Aerospace University. -->
+I am a senior majoring Computer Science & Engineering at Korea Aerospace University.
 
-🌱 I’m currently studying Deep Learning based Computer Vision.
-    Tasks I am nowadays studying are Knowledge Distillation and Human Pose Estimation.
+🌱 I’m currently learning Deep Learning based Computer Vision.
+
+🌱 Tasks I am nowadays studying are Knowledge Distillation and Human Pose Estimation.
 
 <!-- 🔭 I’m hoping to learn about Computer Vision and Machine Learning. -->
 
@@ -15,16 +17,24 @@ I am a junior majoring in Aviation electronic & Information Engineering at Korea
 
 <div align="center">
 
-Techs I've used at least once.
+<!-- Techs I've used at least once. -->
+Programming Languages
 
 <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=C&logoColor=white"/>
 <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=C%2B%2B&logoColor=white"/>
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white"/>
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white"/>
+
+Frameworks
+
+<img alt="Python" src ="https://img.shields.io/badge/PyTorch-EE4C2C.svg?&style=for-the-badge&logo=PyTorch&logoColor=white"/>
+<img alt="NumPy" src ="https://img.shields.io/badge/NumPy-013243.svg?&style=for-the-badge&logo=NumPy&logoColor=white"/>
 <img src="https://img.shields.io/badge/NodeJS-339933?style=for-the-badge&logo=Node.js&logoColor=white"/>
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white"/>
-<img src="https://img.shields.io/badge/Vim-019733?style=for-the-badge&logo=Vim&logoColor=white"/>
 
+Miscellaneous
+
+<img src="https://img.shields.io/badge/Vim-019733?style=for-the-badge&logo=Vim&logoColor=white"/>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KwonPodo&layout=compact)](https://github.com/KwonPodo/github-readme-stats)
 
