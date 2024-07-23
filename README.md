@@ -4,7 +4,8 @@
 
 I am a junior majoring in Aviation electronic & Information Engineering at Korea Aerospace University.
 
-🌱 I’m currently Interested in Computer Vision and Machine Learning.
+🌱 I’m currently studying Deep Learning based Computer Vision.
+    Tasks I am nowadays studying are Knowledge Distillation and Human Pose Estimation.
 
 <!-- 🔭 I’m hoping to learn about Computer Vision and Machine Learning. -->
 
