@@ -19,6 +19,7 @@ I am a senior majoring Computer Science & Engineering at Korea Aerospace Univers
 
 <div align="center">
   <!-- Techs I've used at least once. -->
+  
   **Programming Languages**
   
   <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=C&logoColor=white"/>
