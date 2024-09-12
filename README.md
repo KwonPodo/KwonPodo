@@ -9,6 +9,8 @@ I am a senior majoring Computer Science & Engineering at Korea Aerospace Univers
 
 🌱 Tasks I am nowadays studying are Knowledge Distillation and Human Pose Estimation.
 
+Most of my working repositories are Private, so if interested contact please contact me.
+
 <!-- 🔭 I’m hoping to learn about Computer Vision and Machine Learning. -->
 
 </div>
