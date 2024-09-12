@@ -1,6 +1,6 @@
-<h3 align="center">🙌 Introduction 🙌</h3>
-<div align="center">
-👋 Hi, my name is Joonhyoung Kwon.
+<h3>Introduction</h3>
+<div>
+Hi, my name is Joonhyoung Kwon.
 
 <!-- I am a senior majoring in Aviation electronic & Information Engineering at Korea Aerospace University. -->
 I am a senior majoring Computer Science & Engineering at Korea Aerospace University.
@@ -14,6 +14,12 @@ Most of my working repositories are Private, so if interested contact please con
 <!-- 🔭 I’m hoping to learn about Computer Vision and Machine Learning. -->
 
 </div>
+
+<br/><br/>
+
+**Experience**
+- Undergraduate Research Student, Sungkyunkwan Univ. I2SLab, Feb 2023 ~ Current
+- Research Intern, Electronics and Telecommunications Research Institute (ETRI), July 2024 ~ September 2024
 
 <br/><br/>
 
