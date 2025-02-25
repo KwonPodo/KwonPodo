@@ -2,10 +2,9 @@
 <div>
 Hi, my name is Joonhyoung Kwon.
 
-<!-- I am a senior majoring in Aviation electronic & Information Engineering at Korea Aerospace University. -->
-I am a senior majoring Computer Science & Engineering at Korea Aerospace University.
+I am a master's student in the Department of Immersive Media Engineering at Sungkyunkwan University.
 
-🌱 I’m currently learning Deep Learning based Computer Vision.
+🌱 I'm currently learning Deep Learning based Computer Vision.
 
 🌱 Tasks I am nowadays studying are Knowledge Distillation and Human Pose Estimation.
 
